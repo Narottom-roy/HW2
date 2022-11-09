@@ -1,0 +1,45 @@
+.profile {
+    display: flex;
+}
+.image {
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+}
+
+.image p {
+    font-size: 20px;
+}
+
+.profile-data {
+    width: 500px;
+    display: inline-block;
+}
+
+.image img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    margin-left: 25px;
+    /* border: 10px solid black; */
+}
+
+.image p {
+    text-align: center;
+}
+
+.profile-data .counter-group {
+    display: flex;
+}
+
+.profile-data {
+    font-size: large;
+    padding-top: 65px;
+
+}
+
+.counter-group p{
+    margin-right: 10px;
+    border-left: 2px solid black;
+    padding-left: 3px;
+}
