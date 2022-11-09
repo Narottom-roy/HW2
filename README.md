@@ -1,4 +1,10 @@
 # Home Work
 
-	This is test block
-	Testing the markdown language
+	
+	// How to clone from git
+	$ git clone YOUR_URL
+	
+	// How to push in github
+	$ git add .
+	$ git commit -m 'YOUR MESSAGE'
+	$ git push
