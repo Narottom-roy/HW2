@@ -1,0 +1,61 @@
+.profile{
+    display: flex;
+}
+
+.image img{
+    height: 250px;
+    width:250px;
+    display:inline-block;
+    padding-top:65px;
+    padding-left:25px;
+    border-radius:35px;
+
+}
+
+.image p{
+    font-size:30px;
+    padding-left:90px;
+}
+
+.profile-data{
+    height:250px;
+    width:250px;
+    padding-left:70px;
+}
+
+.profile-data .counter-group{
+    display: flex;
+    border-radius:40%;
+    margin-left:05px;
+    padding:5px solid black;
+}
+
+.profile-data{
+    padding-top:05px;
+    font-size:20px;
+    border:inline-block;
+
+}
+
+
+.Post img{
+    height:400px;
+    width:250px;
+}
+
+.Post p{
+    text-align:center;
+    height:70px;
+    width:500px;
+   padding-left:500px;
+   padding-top:05px;
+   border:inline-block;
+   color:blue;
+}
+
+.Post img{
+    height:250px;
+    width:250px;
+    padding-left:3px;
+    padding-top:05px;
+}

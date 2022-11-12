@@ -1,0 +1,52 @@
+.profile{
+    display: flex;
+}
+
+.picture{
+    height:250px;
+    width: 250px;
+    padding-top:20px;
+    padding-left: 50px;
+    border:inline block;
+    border-radius:50%;
+
+}
+
+.picture img{
+    height:250px;
+    width:250px;
+    border-radius:50%
+}
+
+.picture p{
+    font-size: 20px;
+    padding-left:100px;
+}
+
+.profile-data{
+    padding-top:10px;
+    padding-left:100px;
+    font-size:20px;
+    display:inline block;
+}
+
+.profile-data .counter-group{
+        display: flex;
+        border-radius:40px;
+        margin-left:15px;
+        padding:5px solid black;
+        height:50px;
+        width:250px;
+      
+}
+   
+
+ .POSTS {
+   
+   width:250px;
+   height:250px;
+ }
+
+
+    
+
